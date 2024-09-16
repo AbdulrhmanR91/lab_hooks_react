@@ -1,0 +1,25 @@
+.comments-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1rem;
+  }
+  
+  .comment-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 1rem;
+    background-color: #f9f9f9;
+    width: 300px;
+  }
+  
+  .comment-card h3 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  .comment-card p {
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+  }
+  
